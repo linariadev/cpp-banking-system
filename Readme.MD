@@ -256,8 +256,6 @@ Le système implémente un mécanisme de hachage des mots de passe via la classe
 - Production d'un hash hexadécimal de **32 caractères**
 - Les mots de passe ne sont **jamais stockés en clair** en base
 
-> ⚠️ Le sel est fixe (non unique par utilisateur). Pour un système en production, un sel aléatoire par utilisateur et bcrypt/Argon2 seraient nécessaires.
-
 ---
 
 ## 🎓 Concepts POO appliqués

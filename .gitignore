@@ -1,0 +1,26 @@
+# Compiled binaries
+*.exe
+*.o
+*.obj
+*.out
+
+# CodeBlocks generated files
+*.depend
+*.layout
+bin/
+obj/
+
+# SQLite database (generated at runtime)
+banque.db
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code (if used)
+.vscode/
+
+# Temp files
+*.tmp
+*.bak
+*~

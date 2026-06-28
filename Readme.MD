@@ -289,4 +289,5 @@ Le système implémente un mécanisme de hachage des mots de passe via la classe
 
 **Lina BEN YASSI** [@linariadev](https://github.com/linariadev)  
 **Tasnime FIRKATOUNE**
+
 Note: Projet développé dans le cadre d'un cours de Programmation Orientée Objet en C++ (Janvier 2026).

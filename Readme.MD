@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🏦 C++ Banking System
 
 ### Mini système bancaire sécurisé — Programmation Orientée Objet en C++
@@ -289,8 +287,6 @@ Le système implémente un mécanisme de hachage des mots de passe via la classe
 
 ## 👥 Auteurs
 
-**Lina BEN YASSI** — [@linariadev](https://github.com/linariadev)  
+**Lina BEN YASSI** [@linariadev](https://github.com/linariadev)  
 **Tasnime FIRKATOUNE**
-
-Encadrant : **Pr. Youssef JDIDOU** — EMSI Tanger  
-Année universitaire : 2025–2026
+Note: Projet développé dans le cadre d'un cours de Programmation Orientée Objet en C++ (Janvier 2026).
